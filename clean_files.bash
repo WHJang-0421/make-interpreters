@@ -1,0 +1,1 @@
+find com/craftinginterpreters/* -type f \( -name "*.class" \) -delete
